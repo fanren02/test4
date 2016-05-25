@@ -1,0 +1,11 @@
+{
+    "name": "fanren/test4",
+    "description": "test4",
+    "authors": [
+        {
+            "name": "fanren",
+            "email": "fanren3150@qq.com"
+        }
+    ],
+    "require": {}
+}
